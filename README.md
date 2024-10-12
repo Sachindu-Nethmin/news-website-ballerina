@@ -31,7 +31,10 @@ Then open a new terminal in the project path and run the React service
     
      cd frontend_server
 <br>
-    
+
+    npm insall next
+<br>
+
      npm run dev
 
    
