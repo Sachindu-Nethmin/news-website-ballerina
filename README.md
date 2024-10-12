@@ -22,14 +22,14 @@ Run the SQL scripts backend_server/resources/init-data.sql to create the tables 
 
 Open a new Terminal in the project path and run the Ballerina service
 
-     cd news-website/backend_server
+     cd news-website\backend_server
 <br>
     
      bal run
 
 Then open a new terminal in the project path and run the React service
     
-     cd news-website/frontend_server
+     cd news-website\frontend_server
 <br>
     
      npm run dev
