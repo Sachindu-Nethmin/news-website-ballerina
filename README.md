@@ -4,7 +4,7 @@
 
 Clone the project
 
-    $ git clone https://
+    $ git clone https://github.com/Sachindu-Nethmin/news-website-ballerina
 
 Add a new file named Config.toml in the /backend_server directory and add the following configurations for the MySQL server.
     
